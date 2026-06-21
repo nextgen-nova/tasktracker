@@ -1,4 +1,4 @@
-```python
+
 import json
 import os
 from pathlib import Path
@@ -187,4 +187,4 @@ if __name__ == "__main__":
         port=port,
         debug=True
     )
-```
+
